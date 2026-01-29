@@ -29,5 +29,6 @@ based on **gender, passenger class, and age**.
 - Age and passenger class played an important role in survival
 
 ## 👤 Author
-**Jagdish Rajvanshi**  
-Data Science with Python Internship task 2
+Name: Jagdish Rajvanshi  
+Internship: Data Analysis with Python  
+Week: 2
