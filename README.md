@@ -28,6 +28,12 @@ based on **gender, passenger class, and age**.
 - Passengers in higher classes had better survival chances
 - Age and passenger class played an important role in survival
 
+## ✅ Conclusion
+The analysis shows that female passengers had a higher survival rate than males.
+Passengers traveling in higher classes had better chances of survival.
+Age and passenger class played an important role in survival outcomes.
+Visualizations helped in clearly understanding the survival patterns.
+
 ## 👤 Author
 Name: Jagdish Rajvanshi  
 Internship: Data Analysis with Python  
